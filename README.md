@@ -1,5 +1,13 @@
-<div align="center">
-  <img src="./time-img.jpg" alt="image" width=100% height=400px align="center"/> 
+<div align="center"     width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;>
+  <img src="./time-img.jpg" alt="image" width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;  align="center"/> 
   <h1 align="center">👋 This is Amir Khodadi ! A Junior Frontend Programmer </h1>
   <h2> My Expertise : </h2>
   <br/>
