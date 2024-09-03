@@ -13,7 +13,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nextjs,vite,vscode,github,stackoverflow" alt=""skills/>
 
-    <p>
+  
   🌟 I am passionate about front-end web development and love creating beautiful, responsive user interfaces. For me, web design is more than just coding; it's an art that connects with the end-user.
 
   🚀 Currently, I’m focused on enhancing my skills in HTML, CSS, and JavaScript, particularly in React and Next.js, to deliver better user experiences.
