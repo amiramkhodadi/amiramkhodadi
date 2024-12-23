@@ -30,7 +30,7 @@
 - **Databases:** PostgreSQL, MySQL, SQLite
 - **APIs:** RESTful API Development
 - **Tools & Platforms:** Docker, Celery, Redis, Git
-- **Other Skills:** Authentication & Authorization (OAuth2, JWT), Deployment (Heroku, AWS, Linux Servers)
+- **Other Skills:** Authentication & Authorization (OAuth2, JWT), Deployment (Heroku, AWS)
 
 ---
 
