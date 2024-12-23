@@ -8,10 +8,10 @@
     position: absolute;
     top: 0;
     left: 0;  align="center"/> 
-  <h1 align="center">👋 This is Amir Khodadi ! A Junior Frontend Programmer </h1>
+  <h1 align="center">👋 This is Amir Khodadi ! A Junior backend Programmer </h1>
   <h2> My Expertise : </h2>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,nextjs,vite,vscode,github,stackoverflow" alt=""skills/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,vscode,github,stackoverflow,python,django" alt=""skills/>
 
   
   🌟 I am passionate about front-end web development and love creating beautiful, responsive user interfaces. For me, web design is more than just coding; it's an art that connects with the end-user.
