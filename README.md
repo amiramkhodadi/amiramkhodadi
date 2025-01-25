@@ -60,12 +60,3 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 
----
-
-### آمار گیت‌هاب:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiramkhodadi&show_icons=true&locale=en&layout=compact" alt="amiramkhodadi" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amiramkhodadi&" alt="amiramkhodadi" />
-</p>
