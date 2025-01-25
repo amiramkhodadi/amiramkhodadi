@@ -11,7 +11,7 @@
   <h1 align="center">👋 This is Amir Khodadi ! A Junior backend Programmer </h1>
   <h2> My Expertise : </h2>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,vscode,github,stackoverflow,python,django" alt=""skills/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,vscode,github,stackoverflow,python,django,mysql" alt=""skills/>
 
   ## About Me
 
