@@ -19,19 +19,16 @@
 
 🚀 Currently, I’m focused on honing my skills in **Python** and **Django**, crafting APIs, managing databases, and implementing secure, high-performing backend systems.
 
-🎯 I’m eager to collaborate on projects that involve building powerful backend architectures, designing RESTful APIs, and solving challenging server-side problems. If you’re interested in creating cutting-edge web applications, let’s connect and discuss how we can collaborate.
+🎯 I’m eager to collaborate on projects that involve building powerful backend architectures, and solving challenging server-side problems. If you’re interested in creating cutting-edge web applications, let’s connect and discuss how we can collaborate.
 
 ---
 
 ### Skills & Technologies
 
 - **Programming Languages:** Python, JavaScript
-- **Backend Frameworks:** Django, Django REST Framework
+- **Backend Frameworks:** Django
 - **Databases:** PostgreSQL, MySQL, SQLite
-- **APIs:** RESTful API Development
-- **Tools & Platforms:** Docker, Celery, Redis, Git
-- **Other Skills:** Authentication & Authorization (OAuth2, JWT), Deployment (Heroku, AWS)
-
+- **Tools & Platforms:** Git
 ---
 
 ### Current Goals
