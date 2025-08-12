@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Amir Khodadi, a Computer Engineering graduate and backend developer specializing in Django.<br><br>🔭 I’m currently working on a Django-based web application for a real-world project.<br><br>🤝 I’m looking to collaborate on simple and practical Django projects.<br><br>🧠 I’m looking for help with improving Django performance and deployment tips.<br><br>🌱 I’m currently learning Django REST Framework and best practices for clean code.<br><br>💬 Ask me about Python, Django basics, and building web apps from scratch.<br><br>⚡ Fun fact: I enjoy turning ideas into working web apps — and coffee is my coding fuel ☕.<br>
+👋 I’m Amir Khodadi, a Computer Engineering student and backend developer specializing in Django.<br><br>🔭 I’m currently working on a Django-based web application for a real-world project.<br><br>🤝 I’m looking to collaborate on simple and practical Django projects.<br><br>🧠 I’m looking for help with improving Django performance and deployment tips.<br><br>🌱 I’m currently learning Django REST Framework and best practices for clean code.<br><br>💬 Ask me about Python, Django basics, and building web apps from scratch.<br><br>⚡ Fun fact: I enjoy turning ideas into working web apps — and coffee is my coding fuel ☕.<br>
 
 
 ## 🌐 Socials:
